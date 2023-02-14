@@ -29,6 +29,7 @@
 		1848E0CF299B3F59000FC365 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1848E0CE299B3F59000FC365 /* AudioTrack.swift */; };
 		1848E0D1299B3F62000FC365 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1848E0D0299B3F62000FC365 /* Artist.swift */; };
 		1848E0D3299B3F71000FC365 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1848E0D2299B3F71000FC365 /* UserProfile.swift */; };
+		1848E0D5299B4945000FC365 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1848E0D4299B4945000FC365 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		1848E0CE299B3F59000FC365 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		1848E0D0299B3F62000FC365 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		1848E0D2299B3F71000FC365 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		1848E0D4299B4945000FC365 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				1848E096299B3AEB000FC365 /* AppDelegate.swift */,
 				1848E098299B3AEB000FC365 /* SceneDelegate.swift */,
 				1848E09F299B3AED000FC365 /* Assets.xcassets */,
+				1848E0D4299B4945000FC365 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				1848E0B9299B3EA6000FC365 /* AuthViewController.swift in Sources */,
 				1848E097299B3AEB000FC365 /* AppDelegate.swift in Sources */,
 				1848E0D3299B3F71000FC365 /* UserProfile.swift in Sources */,
+				1848E0D5299B4945000FC365 /* Extensions.swift in Sources */,
 				1848E0B5299B3E51000FC365 /* LibraryViewController.swift in Sources */,
 				1848E0D1299B3F62000FC365 /* Artist.swift in Sources */,
 				1848E0C3299B3EEA000FC365 /* PlaylistViewController.swift in Sources */,
